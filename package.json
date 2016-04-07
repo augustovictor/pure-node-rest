@@ -1,0 +1,19 @@
+{
+  "name": "pure-node-rest",
+  "version": "1.0.0",
+  "description": "Learning pure rest in node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustovictor/pure-node-rest.git"
+  },
+  "author": "Victor Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustovictor/pure-node-rest/issues"
+  },
+  "homepage": "https://github.com/augustovictor/pure-node-rest#readme"
+}
